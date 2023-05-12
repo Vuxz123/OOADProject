@@ -1,0 +1,6 @@
+package com.ethnicthv.server.business.util;
+
+public class ComplaintInfo {
+    public ComplaintInfo(String input) {
+    }
+}
